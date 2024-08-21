@@ -1,0 +1,1 @@
+6月にNintendoSwitchで発売されたゲームを表示するWebページです。
